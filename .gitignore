@@ -1,0 +1,32 @@
+# Environment variables
+.env
+.env*.local
+
+# Vector database storage
+chroma_db/
+**/chroma_db/
+
+# Python cache & build
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE / Editor configuration
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

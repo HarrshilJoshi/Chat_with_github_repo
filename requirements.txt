@@ -1,0 +1,8 @@
+streamlit==1.56.0
+groq==1.7.0
+google-genai==2.25.0
+chromadb==1.5.9
+rank-bm25==0.2.2
+requests==2.34.2
+python-dotenv==1.2.3
+pytest==9.1.1
